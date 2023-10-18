@@ -5,7 +5,6 @@
   
 <p> 2.- Datos de clasificación
 Género
-  
-<input type = "checkbox" name = "m"> Masculine
-<input type = "checkbox" name = "f"> Female </p></p>
+<input type = "checkbox" name = "m"> Masculino
+<input type = "checkbox" name = "f"> Femenino </p></p>
 <br> 
