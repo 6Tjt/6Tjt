@@ -8,6 +8,11 @@
 <p>Género: </p>
 <p> <input type = "checkbox" name = "m"> Masculino</p>
 <p> <input type = "checkbox" name = "f"> Femenino </p>
+<p>Edad: </p>
+<p> <input type = "checkbox" name = "edad"> 18-40</p>
+<p> <input type = "checkbox" name = "edad"> 41-63 </p>
+<p> <input type = "checkbox" name = "edad"> 64 a más </p>
 <br>
 </p></p>
 </html>
+
