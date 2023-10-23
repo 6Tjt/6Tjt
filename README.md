@@ -4,8 +4,8 @@
 <br> <br>
 <p> 1.- Introducción: </p>
 <p> Buenos días, somos el partido político "Partido Político Movimiento Juvenil" con el fin de determinar la filiación a nuestro partido, solicitamos su colaboración llenando esta encuesta y marcando la respuesta de su elección, de ante mano muchas gracias :)</p> 
-<p> 2.- Datos de clasificación
-Género: 
+<p> 2.- Datos de clasificación</p>
+<p>Género: </p>
 <input type = "checkbox" name = "m"> Masculino
 <input type = "checkbox" name = "f"> Femenino 
 <br>
