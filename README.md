@@ -12,6 +12,11 @@
 <p> <input type = "checkbox" name = "edad"> 18-40</p>
 <p> <input type = "checkbox" name = "edad"> 41-63 </p>
 <p> <input type = "checkbox" name = "edad"> 64 a más </p>
+<p> 3.- Cuestionario </p>
+<p> ¿Que tanto cree usted que se respeten o no las leyes en México?
+<p> <input type = "checkbox" name = "10"> Mucho</p>
+<p> <input type = "checkbox" name = "5"> Poco </p>
+<p> <input type = "checkbox" name = "0"> Nada </p>
 <br>
 </p></p>
 </html>
